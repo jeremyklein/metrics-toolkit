@@ -26,5 +26,5 @@
 		"sfdc.password",
 		"sfdc.securityToken"
 	],
-	"minMuleVersion":"4.4.0"
+	"minMuleVersion":"4.6.0"
 }
